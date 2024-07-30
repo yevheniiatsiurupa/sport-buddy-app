@@ -1,5 +1,8 @@
 # Sport Buddy App
 I have created the app which helps you easily find friends for doing sports.
+---
+
+[Link (Google Play)](https://play.google.com/store/apps/details?id=com.et.sportbuddy)
 
 ### Main features
 * Account (multi-step registration, login, change password, logout)
