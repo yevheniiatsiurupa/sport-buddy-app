@@ -43,18 +43,3 @@ I have created the app which helps you easily find friends for doing sports.
 <p float="left">
   <img src="img/_013.jpeg" width="33%" />
 </p>
-
-![Cards main](img/_001.jpeg) 
-![Create card](img/_002.jpeg)
-![Create card](img/_003.jpeg)
-![Profile](img/_004.jpeg)
-![Card](img/_005.jpeg)
-![Filters](img/_006.jpeg)
-![Chats](img/_007.jpeg)
-![Messages](img/_008.jpeg)
-![Published card stats](img/_009.jpeg)
-![Feedbacks](img/_010.jpeg)
-![Registration step](img/_011.jpeg)
-![Registration step](img/_012.jpeg)
-![Support](img/_013.jpeg)
-
